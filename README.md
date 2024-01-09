@@ -489,7 +489,7 @@ In Scala, **Option** is a powerful tool that offers clear benefits throughout th
 
 1. **Robust Error Handling**: It provides a structured approach for situations where a method might not return a valid value, thereby reducing the chances of **null-pointer exceptions**.
 2. **Distinct Semantics**: By explicitly differentiating between a valid result (Some) and the absence of one (None), it promotes logical clarity and aids in **code comprehension**.
-3. **Forced Consideration**: The `Some` and `None` constructs compel developers to actively assess potential absence or presence of a value, which leads to a **more mindful* coding practice.
+3. **Forced Consideration**: The `Some` and `None` constructs compel developers to actively assess potential absence or presence of a value, which leads to a *more mindful* coding practice.
 4. **Enhanced API Safety**: When a method accepts or returns an `Option`, it signals to users that no values are guaranteed, thereby ensuring safer, more **predictable interactions**.
 
 ### Code Example: Using Options for Error Handling
