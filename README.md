@@ -1,4 +1,4 @@
-# 70 Must-Know Scala Interview Questions
+# 70 Must-Know Scala Interview Questions in 2025
 
 <div>
 <p align="center">
